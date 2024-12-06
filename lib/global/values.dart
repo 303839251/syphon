@@ -144,7 +144,7 @@ const isoLangs = {
   'ch': {'name': 'Chamorro', 'nativeName': 'Chamoru'},
   'ce': {'name': 'Chechen', 'nativeName': 'нохчийн мотт'},
   'ny': {'name': 'Chichewa; Chewa; Nyanja', 'nativeName': 'chiCheŵa, chinyanja'},
-  'zh': {'name': 'Chinese', 'nativeName': '中文 (Zhōngwén), 汉语, 漢語'},
+  'zh_Hans': {'name': 'Chinese', 'nativeName': '中文 (Zhōngwén), 汉语, 漢語'},
   'cv': {'name': 'Chuvash', 'nativeName': 'чӑваш чӗлхи'},
   'kw': {'name': 'Cornish', 'nativeName': 'Kernewek'},
   'co': {'name': 'Corsican', 'nativeName': 'corsu, lingua corsa'},
@@ -239,6 +239,7 @@ const isoLangs = {
     'name': 'Old Church Slavonic, Church Slavic, Church Slavonic, Old Bulgarian, Old Slavonic',
     'nativeName': 'ѩзыкъ словѣньскъ'
   },
+  'zh_Hans': {'name': 'Chinese', 'nativeName': '中文 (Zhōngwén), 汉语, 漢語'},
   'om': {'name': 'Oromo', 'nativeName': 'Afaan Oromoo'},
   'or': {'name': 'Oriya', 'nativeName': 'ଓଡ଼ିଆ'},
   'os': {'name': 'Ossetian, Ossetic', 'nativeName': 'ирон æвзаг'},
