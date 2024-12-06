@@ -68,7 +68,7 @@ const bool DEBUG_PAYLOADS_MODE = false;
 const bool DEBUG_OLM_MODE = false;
 
 class SupportedLanguages {
-  static const defaultLang = 'en';
+  static const defaultLang = 'zh-Hans';
 
   // Follow alphabetical order in assets/translations
   static const all = [
@@ -76,6 +76,7 @@ class SupportedLanguages {
     'cs',
     'de',
     'en',
+	'zh-Hans',
     'en-gb',
     'en-Shaw',
     'es',
